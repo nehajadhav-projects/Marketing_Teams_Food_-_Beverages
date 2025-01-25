@@ -13,6 +13,12 @@ ________________________________________
 -	Improvements in the product and its distribution need to align with customer preferences and address concerns to boost market adoption.
 ________________________________________
 ## Dashboard 
+![mfbo](https://github.com/user-attachments/assets/0934003a-4d43-40df-a70e-2df01a9289a5)
+![fb2](https://github.com/user-attachments/assets/2b1ce1f8-2033-4d43-9c26-ecf7ce6ebe05)
+![fb3](https://github.com/user-attachments/assets/60e65214-ee8b-4e10-968c-c5af7f4a101d)
+![fb4](https://github.com/user-attachments/assets/e91cb0e0-4ef0-4067-b9a1-c27af78332b9)
+![fb5](https://github.com/user-attachments/assets/955c988f-e654-4efe-94e4-25246d74c5ff)
+
 ________________________________________
 ## Tools and Approach:
 ### Tools Used:
